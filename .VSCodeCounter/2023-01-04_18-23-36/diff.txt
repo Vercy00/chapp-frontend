@@ -1,0 +1,35 @@
+Date : 2023-01-04 18:23:36
+Directory : c:\Users\david\Desktop\git\chat-project
+Total : 6 files,  5 codes, 0 comments, 1 blanks, all 6 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| TypeScript |          6 |          5 |          0 |          1 |          6 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                     |          6 |          5 |          0 |          1 |          6 |
+| src                                                                   |          6 |          5 |          0 |          1 |          6 |
+| src\App                                                               |          2 |          5 |          0 |          1 |          6 |
+| src\App\Chat                                                          |          1 |          2 |          0 |          0 |          2 |
+| src\App\ColorPicker                                                   |          1 |          3 |          0 |          1 |          4 |
+| src\util                                                              |          4 |          0 |          0 |          0 |          0 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                              | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\david\Desktop\git\chat-project\src\App\Chat\Styles.ts        | TypeScript |          2 |          0 |          0 |          2 |
+| c:\Users\david\Desktop\git\chat-project\src\App\ColorPicker\Styles.ts | TypeScript |          3 |          0 |          1 |          4 |
+| c:\Users\david\Desktop\git\chat-project\src\util\EncryptUtil.ts       | TypeScript |        -51 |          0 |        -14 |        -65 |
+| c:\Users\david\Desktop\git\chat-project\src\util\TimeUtil.ts          | TypeScript |        -17 |          0 |        -10 |        -27 |
+| c:\Users\david\Desktop\git\chat-project\src\util\encrypt-util.ts      | TypeScript |         51 |          0 |         14 |         65 |
+| c:\Users\david\Desktop\git\chat-project\src\util\time-util.ts         | TypeScript |         17 |          0 |         10 |         27 |
+| Total                                                                 |            |          5 |          0 |          1 |          6 |
++-----------------------------------------------------------------------+------------+------------+------------+------------+------------+

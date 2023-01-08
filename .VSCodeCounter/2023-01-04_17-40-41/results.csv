@@ -1,0 +1,27 @@
+"filename", "language", "JSON with Comments", "TypeScript", "TypeScript React", "JSON", "CSS", "XML", "HTML", "comment", "blank", "total"
+"c:\Users\david\Desktop\git\chat-project\index.html", "HTML", 0, 0, 0, 0, 0, 0, 16, 0, 1, 17
+"c:\Users\david\Desktop\git\chat-project\package-lock.json", "JSON", 0, 0, 0, 1638, 0, 0, 0, 0, 1, 1639
+"c:\Users\david\Desktop\git\chat-project\package.json", "JSON", 0, 0, 0, 30, 0, 0, 0, 0, 1, 31
+"c:\Users\david\Desktop\git\chat-project\public\vite.svg", "XML", 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\david\Desktop\git\chat-project\src\App\Chat\Styles.ts", "TypeScript", 0, 100, 0, 0, 0, 0, 0, 0, 20, 120
+"c:\Users\david\Desktop\git\chat-project\src\App\Chat\index.tsx", "TypeScript React", 0, 0, 84, 0, 0, 0, 0, 0, 13, 97
+"c:\Users\david\Desktop\git\chat-project\src\App\ColorPicker\Styles.ts", "TypeScript", 0, 64, 0, 0, 0, 0, 0, 0, 8, 72
+"c:\Users\david\Desktop\git\chat-project\src\App\ColorPicker\index.tsx", "TypeScript React", 0, 0, 35, 0, 0, 0, 0, 0, 6, 41
+"c:\Users\david\Desktop\git\chat-project\src\App\LoginForm\Styles.ts", "TypeScript", 0, 39, 0, 0, 0, 0, 0, 0, 7, 46
+"c:\Users\david\Desktop\git\chat-project\src\App\LoginForm\index.tsx", "TypeScript React", 0, 0, 34, 0, 0, 0, 0, 0, 6, 40
+"c:\Users\david\Desktop\git\chat-project\src\App\Spinner\Styles.ts", "TypeScript", 0, 49, 0, 0, 0, 0, 0, 0, 6, 55
+"c:\Users\david\Desktop\git\chat-project\src\App\Spinner\index.tsx", "TypeScript React", 0, 0, 19, 0, 0, 0, 0, 0, 3, 22
+"c:\Users\david\Desktop\git\chat-project\src\App\Styles.ts", "TypeScript", 0, 242, 0, 0, 0, 0, 0, 0, 27, 269
+"c:\Users\david\Desktop\git\chat-project\src\App\index.tsx", "TypeScript React", 0, 0, 61, 0, 0, 0, 0, 0, 9, 70
+"c:\Users\david\Desktop\git\chat-project\src\assets\palette-icon.tsx", "TypeScript React", 0, 0, 32, 0, 0, 0, 0, 0, 2, 34
+"c:\Users\david\Desktop\git\chat-project\src\assets\send-icon.svg", "XML", 0, 0, 0, 0, 0, 4, 0, 0, 1, 5
+"c:\Users\david\Desktop\git\chat-project\src\index.css", "CSS", 0, 0, 0, 0, 71, 0, 0, 0, 10, 81
+"c:\Users\david\Desktop\git\chat-project\src\main.tsx", "TypeScript React", 0, 0, 9, 0, 0, 0, 0, 0, 2, 11
+"c:\Users\david\Desktop\git\chat-project\src\service\chat-service.ts", "TypeScript", 0, 134, 0, 0, 0, 0, 0, 0, 25, 159
+"c:\Users\david\Desktop\git\chat-project\src\util\EncryptUtil.ts", "TypeScript", 0, 51, 0, 0, 0, 0, 0, 0, 14, 65
+"c:\Users\david\Desktop\git\chat-project\src\util\TimeUtil.ts", "TypeScript", 0, 17, 0, 0, 0, 0, 0, 0, 10, 27
+"c:\Users\david\Desktop\git\chat-project\src\vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"c:\Users\david\Desktop\git\chat-project\tsconfig.json", "JSON with Comments", 21, 0, 0, 0, 0, 0, 0, 0, 1, 22
+"c:\Users\david\Desktop\git\chat-project\tsconfig.node.json", "JSON", 0, 0, 0, 9, 0, 0, 0, 0, 1, 10
+"c:\Users\david\Desktop\git\chat-project\vite.config.ts", "TypeScript", 0, 5, 0, 0, 0, 0, 0, 1, 2, 8
+"Total", "-", 21, 701, 274, 1677, 71, 5, 16, 2, 177, 2944
